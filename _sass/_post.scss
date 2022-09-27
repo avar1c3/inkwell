@@ -1,0 +1,43 @@
+#post-title {
+	text-transform: lowercase;
+	font-weight: bold;
+	font-size: 48pt;
+	line-height: 100%;
+	margin: 0;
+}
+
+#post-subtitle {
+	text-transform: lowercase;
+	font-weight: 200;
+	margin: 0;
+	padding-bottom: 8pt;
+	color: #555555;
+}
+
+#post-contents {
+	overflow: auto;
+	margin: 0;
+}
+
+#back-button {
+	text-decoration: none;
+	font-weight: 200;
+	color: #555555;
+	font-size: 14pt;
+}
+
+.quote div {
+	display: flex;
+}
+
+.quote p {
+	margin-top: 0;
+}
+
+#quote-mark {
+	font-size: 48pt;
+	font-weight: bold;
+	margin-top: 0;
+	margin-right: 10px;
+	margin-bottom: 0;
+}

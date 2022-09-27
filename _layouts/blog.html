@@ -1,0 +1,41 @@
+---
+layout: default
+---
+<div class="content" id="blog-content">
+	<h1 id="title">{{ site.title }}</h1>
+	<h4 id="random-quote">...</h4>
+	<script>
+		const messages = [
+			'\"say my days are numbered but i keep waking up\"',
+			'everything is going to be okay',
+			'PUSH TO START',
+			'[original line goes here]',
+			'i want to jump',
+			'\"I\'VE TRIED NOTHING, EVERYTHING WORKS\"',
+			'miaou',
+			'kill yourself, it\'s fun!',
+			'approaching infinity',
+			'close your eyes and you\'ll leave this dream',
+			'\"EVERYTHING HE HAS, HE DOESN\'T NEED\"',
+			'who even reads these'
+		];
+		const randomIndex = Math.round(Math.random() * messages.length);
+		document.getElementById("random-quote").innerHTML = messages[randomIndex];
+	</script>
+	<ul>
+		{% for post in site.posts %}
+			<li class="blog-posts">
+				<a href="{{ site.baseurl }}{{ post.url }}">
+					{% if post.date != null %}
+						{{ post.date | date: "%-d" }}
+						{{ post.date | date: "%b" }}
+						{{ post.date | date: "%Y" }}
+					{% endif %}
+					<b>
+						{{ post.title }}
+					</b>
+				</a>
+			</li>
+		{% endfor %}
+	</ul>
+</div>

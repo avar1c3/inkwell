@@ -1,0 +1,61 @@
+// Custom fonts
+
+@font-face {
+	font-family: "HelveticaLT";
+	src: url("../assets/fonts/HelveticaLTStd-Bold.woff2") format("woff2")
+		 url("../assets/fonts/HelveticaLTStd-BoldObl.woff2") format("woff2")
+		 url("../assets/fonts/HelveticaLTStd-Fraction.woff2") format("woff2")
+		 url("../assets/fonts/HelveticaLTStd-FractionBold.woff2") format("woff2")
+		 url("../assets/fonts/HelveticaLTStd-Light.woff2") format("woff2")
+		 url("../assets/fonts/HelveticaLTStd-LightObl.woff2") format("woff2")
+		 url("../assets/fonts/HelveticaLTStd-Roman.woff2") format("woff2")
+}
+
+@font-face {
+	font-family: "OMORI_GAME";
+	src: url("../assets/fonts/OMORI_GAME.woff2") format("woff2")
+}
+
+@font-face {
+	font-family: "OMORI_GAME2";
+	src: url("../assets/fonts/OMORI_GAME2.woff2") format("woff2")
+}
+
+// Site-wide base style
+
+html {
+	font-family: 'HelveticaLT', 'Helvetica', 'Arial', sans-serif;
+	color: black;
+}
+
+// Special text classes
+
+.omori-game {
+	font-family: 'OMORI_GAME';
+	color: black;
+}
+
+.omori-game:hover {
+	font-family: 'OMORI_GAME';
+	color: black;
+}
+
+.omori-game2 {
+	font-family: 'OMORI_GAME2';
+	color: black;
+}
+
+.omori-game2:hover {
+	font-family: 'OMORI_GAME2';
+	color: black;
+}
+
+.omori-game-red {
+	font-family: 'OMORI_GAME';
+	color: #e65539;
+}
+
+.omori-game-red:hover {
+	font-family: 'OMORI_GAME';
+	color: #e65539;
+}

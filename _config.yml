@@ -1,0 +1,30 @@
+# Extraneous files
+exclude:
+- README.md
+- LICENSE
+- CNAME
+- Gemfile
+- Gemfile.lock
+- inkwell.gemspec
+- .jekyll-cache
+
+# Jekyll plugins
+plugins:
+- jekyll-sitemap
+
+# Jekyll settings
+remote_theme: avar1c3/inkwell
+timezone: America/New_York
+permalink: pretty # Permalink style (/YYYY/MM/DD/name/)
+
+# Site settings
+encoding: utf-8
+lang: en-GB
+title: "Inkwell"
+date_format: "%-d %b %Y"
+# logo: TODO make a logo
+description: "Refreshingly simple. Black on white has never looked so clean."
+domain: "avar1c3.github.io"
+url: "https://avar1c3.github.io" # TODO determine URL and put it here
+baseurl: "/inkwell"
+# repo: TODO upload this somewhere
