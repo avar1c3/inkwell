@@ -23,9 +23,13 @@ layout: default
 			'despair ad infinitum',
 			'\"The dragon rests in agony\"',
 			'suspend from ceiling by neck',
-			'THE PARTY NEVER ENDS'
+			'THE PARTY NEVER ENDS',
+			'IN CASE OF EMERGENCY BREAK GLASS',
+			'IN CASE OF EMERGENCY SLIT WRISTS',
+			'IN CASE OF EMERGENCY KILL SELF',
+			'Now with 20% more fat!'
 		];
-		const randomIndex = Math.round(Math.random() * messages.length);
+		const randomIndex = Math.round(Math.random() * (messages.length - 1));
 		document.getElementById("random-quote").innerHTML = messages[randomIndex];
 	</script>
 	<ul>
