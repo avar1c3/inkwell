@@ -21,6 +21,11 @@
 	src: url("../assets/fonts/OMORI_GAME2.woff2") format("woff2")
 }
 
+@font-face {
+	font-family: "3270";
+	src: url("../assets/fonts/3270.woff2")
+}
+
 // Site-wide base style
 
 html {
@@ -58,4 +63,9 @@ html {
 .omori-game-red:hover {
 	font-family: 'OMORI_GAME';
 	color: #e65539;
+}
+
+.terminal-font {
+	font-family: '3270';
+	color: black;
 }
