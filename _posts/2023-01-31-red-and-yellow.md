@@ -20,7 +20,7 @@ what would she say if that happened?<br>
 your memory was left behind. so were the contents of your pockets.<br>
 what would you tell her happened?<br>
 
-<a class="omori-game">drenched in gluttony<br>
-coated in lies<br>
-you disgust me<br></a>
+<a class="omori-game">drenched in gluttony</a><br>
+<a class="omori-game">coated in lies</a><br>
+<a class="omori-game">you disgust me</a><br>
 <a class="omori-game-red">are you having fun?</a>
