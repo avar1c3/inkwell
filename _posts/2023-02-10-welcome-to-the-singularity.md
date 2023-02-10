@@ -16,6 +16,6 @@ It turns a single-user machine into one capable of multi-user connections. It gr
 <br>
 
 <a class="terminal-font">User scalpel is ONLINE.</a><br>
-<a class="terminal-font">**************************</a><br>
+<a class="terminal-font">\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*</a><br>
 <a class="terminal-font">WELCOME TO THE SINGULARITY</a><br>
-<a class="terminal-font">**************************</a><br>
+<a class="terminal-font">\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*</a><br>
