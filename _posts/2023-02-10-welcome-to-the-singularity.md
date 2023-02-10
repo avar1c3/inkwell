@@ -14,6 +14,7 @@ A network extension would allow this computer that has never known another machi
 DMT serves as a network stack of sorts. It bridges paths in the brain that never cross in noral operation. It creates a new, arbitrarily modified, set of experiences. It enables the ego to escape the sense of perpetual isolation.<br>
 It turns a single-user machine into one capable of multi-user connections. It grants access to a network of other users. The death of ego.<br>
 <br>
+
 <a class="terminal-font">User scalpel is ONLINE.</a><br>
 <a class="terminal-font">**************************</a><br>
 <a class="terminal-font">WELCOME TO THE SINGULARITY</a><br>
