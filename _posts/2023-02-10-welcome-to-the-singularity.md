@@ -11,7 +11,7 @@ Picture the ego of an individual. It permanently lives in an isolated vacuum. On
 <br>
 Imagine the ego as a user of a single-user computer. This computer never knew the exchange of data between machines. It knew that other computers exist in theory, but it has zero manner of interface with anyone but itself.<br>
 A network extension would allow this computer that has never known another machine to suddenly become a piece of a massive web of other machines. The death of loneliness.<br>
-DMT serves as a network stack of sorts. It bridges paths in the brain that never cross in noral operation. It creates a new, arbitrarily modified, set of experiences. It enables the ego to escape the sense of perpetual isolation.<br>
+DMT serves as a network stack of sorts. It bridges paths in the brain that never cross in normal operation. It creates a new, arbitrarily modified, set of experiences. It enables the ego to escape the sense of perpetual isolation.<br>
 It turns a single-user machine into one capable of multi-user connections. It grants access to a network of other users. The death of ego.<br>
 <br>
 
