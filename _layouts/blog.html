@@ -1,6 +1,13 @@
 ---
 layout: default
 ---
+<style>
+	/* For clipping the quotes that intentionally have text going off-screen. */
+	html, body {
+		max-width: 100%;
+		overflow-x: hidden;
+	}
+</style>
 <div class="content" id="blog-content">
 	<h1 id="title">{{ site.title }}</h1>
 	<h4 id="random-quote">...</h4>
