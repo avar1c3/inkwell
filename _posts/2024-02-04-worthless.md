@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'worthless (to whom?)'
+tags: ['poem']
 ---
 
 you'll always feel alone<br>
